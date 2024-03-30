@@ -46,3 +46,7 @@ git diff
 ```cd
 git restore
 ```
+
+## WEB ссылки
+
+Текст [Пример ссылки](http:example.com "Всплывающая подсказка")
