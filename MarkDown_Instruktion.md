@@ -52,3 +52,6 @@ git restore
 Текст [Пример ссылки](http:example.com "Всплывающая подсказка")
 
 ## Картинки в MarkDown
+Картинка 1
+
+![DoomGuy](DoomGuy.jpg)
