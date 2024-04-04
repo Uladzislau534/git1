@@ -55,3 +55,5 @@ git restore
 Картинка 1
 
 ![DoomGuy](DoomGuy.jpg)
+
+## Создание файла .gitignore и внесение в него файлов
