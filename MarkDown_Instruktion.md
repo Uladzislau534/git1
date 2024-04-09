@@ -65,7 +65,7 @@ git restore
  
  Запушить на сервер
 ``` cd
-git push -u origin <branch>
+git push 
 ```
 Принять с сервера
 ```cd
