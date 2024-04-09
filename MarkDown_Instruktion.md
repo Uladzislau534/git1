@@ -79,3 +79,11 @@ git remote -v
 ```ch
 git remote show origin
 ```
+Вытолкнуть ветку на сервер
+```cd
+  git push --set-upstream origin <branch_name>
+```
+Удаление ветки с сервера
+```cd
+>git push origin --delete <branch_name>
+```
