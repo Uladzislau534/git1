@@ -85,5 +85,17 @@ git remote show origin
 ```
 Удаление ветки с сервера
 ```cd
->git push origin --delete <branch_name>
+git push origin --delete <branch_name>
+```
+Пулим со всеми изменениями
+```cd
+git pull --rebase
+```
+Создание папки
+```cd
+mkdir
+```
+Клонирование репозитория с сервера
+```cd
+git clone
 ```
